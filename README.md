@@ -1,4 +1,14 @@
-# Daily
+# TO DO
+
+| Project                                       | Wallet              | Notes     |      |
+| :--------                                     | :--------           | :-------- | :--- |
+|   https://fuel.mirror.xyz/                    |                     |           |      |
+|   https://op.zora.co/                         |                     |           |      |
+|   https://claim.pudgypenguins.com/            |                     |           |      |
+|                                               |                     |           |      |
+
+
+
 
 | Project                                       | Wallet              | Notes     |      |
 | :--------                                     | :--------           | :-------- | :--- |
