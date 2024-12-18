@@ -5,7 +5,7 @@
 |   https://fuel.mirror.xyz/                    |                     |           |      |
 |   https://op.zora.co/                         |                     |           |      |
 |   https://claim.pudgypenguins.com/            |                     |           |      |
-|                                               |                     |           |      |
+|   Zashi, чтобы там хранить свои Zcash                                            |                     |           |      |
 
 
 
