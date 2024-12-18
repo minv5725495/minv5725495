@@ -2,11 +2,11 @@
 
 | Project                                       | Wallet              | Notes     |      |
 | :--------                                     | :--------           | :-------- | :--- |
-|   https://fuel.mirror.xyz/                    |                     |           |      |
-|   https://op.zora.co/                         |                     |           |      |
-|   https://claim.pudgypenguins.com/            |                     |           |      |
-|   Zashi, чтобы там хранить свои Zcash                                            |                     |           |      |
-
+| https://fuel.mirror.xyz/                    |                     |           |      |
+| https://op.zora.co/                         |                     |           |      |
+| https://claim.pudgypenguins.com/            |                     |           |      |
+| Zashi, чтобы там хранить свои Zcash                                            |                     |           |      |
+| https://discord.gg/axelar
 
 
 
