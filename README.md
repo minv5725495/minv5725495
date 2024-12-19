@@ -9,6 +9,7 @@
 | https://discord.gg/axelar
 | https://stake.nansen.ai/explore/ | [DROP](https://cryptorank.io/drophunting/nansen-activity405)
 | aigisos выкатили проверку на человечность для тестеров
+| [стейкать нейтрон](https://daodao.zone/dao/neutron1suhgf5svhu4usrurvxzlgn54ksxmn8gljarjtxqnapv8kjnp4nrstdxvff/home)
 |
 
 
