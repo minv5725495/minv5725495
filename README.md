@@ -7,6 +7,9 @@
 | https://claim.pudgypenguins.com/            |                     |           |      |
 | Zashi, чтобы там хранить свои Zcash                                            |                     |           |      |
 | https://discord.gg/axelar
+| https://stake.nansen.ai/explore/
+|
+
 
 
 
