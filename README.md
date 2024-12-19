@@ -7,7 +7,7 @@
 | https://claim.pudgypenguins.com/            |                     |           |      |
 | Zashi, чтобы там хранить свои Zcash                                            |                     |           |      |
 | https://discord.gg/axelar
-| https://stake.nansen.ai/explore/
+| https://stake.nansen.ai/explore/ | [DROP](https://cryptorank.io/drophunting/nansen-activity405)
 | aigisos выкатили проверку на человечность для тестеров
 |
 
