@@ -8,6 +8,7 @@
 | Zashi, чтобы там хранить свои Zcash                                            |                     |           |      |
 | https://discord.gg/axelar
 | https://stake.nansen.ai/explore/
+| aigisos выкатили проверку на человечность для тестеров
 |
 
 
