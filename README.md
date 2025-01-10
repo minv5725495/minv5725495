@@ -1,3 +1,8 @@
+| Project                                       | Wallet              | Notes     |      |
+| :--------                                     | :--------           | :-------- | :--- |
+| https://polaris.app/
+|
+
 # TO DO
 
 | Project                                       | Wallet              | Notes     |      |
