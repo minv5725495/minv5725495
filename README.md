@@ -2,11 +2,8 @@
 
 | Project                                       | Wallet              | Notes     |      |
 | :--------                                     | :--------           | :-------- | :--- |
-| ⚠️ [AIGILOS](https://quest.intract.io/quest/6764267cb4c9cfdac86ec3e7?referralCode=74PGmr)
-| ✅ [Aigisos DefiGeek](https://www.youtube.com/watch?v=PCYosQIXQeQ) 
-| ℹ️ [Aigisos Twitter](https://x.com/aigisos) 
-| ℹ️ [Aigisos Medium](https://aigisos.medium.com/aigisos-genesis-rolldrop-8de869192404)
-| ℹ️ [Aigisos Discord](https://discord.gg/eECqtybMGZ) check | Main-Acc1  |  
+| ⚠️ [AIGILOS](https://quest.intract.io/quest/6764267cb4c9cfdac86ec3e7?referralCode=74PGmr) | ℹ️ [Aigisos Discord](https://discord.gg/eECqtybMGZ) check | Main-Acc1  |  
+| ✅ [Aigisos DefiGeek](https://www.youtube.com/watch?v=PCYosQIXQeQ)  | ℹ️ [Aigisos Twitter](https://x.com/aigisos) | ℹ️ [Aigisos Medium](https://aigisos.medium.com/aigisos-genesis-rolldrop-8de869192404)
 |                                               |                     |       
 
 <details>
