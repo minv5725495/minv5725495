@@ -1,9 +1,10 @@
+### TO DO
+
 | Project                                       | Wallet              | Notes     |      |
 | :--------                                     | :--------           | :-------- | :--- |
-|  ⚠️ https://polaris.app/
-|
+|  ✔️ https://polaris.app/
+| aigisos 
 
-# TO DO
 
 | Project                                       | Wallet              | Notes     |      |
 | :--------                                     | :--------           | :-------- | :--- |
@@ -17,7 +18,7 @@
 | [стейкать нейтрон](https://daodao.zone/dao/neutron1suhgf5svhu4usrurvxzlgn54ksxmn8gljarjtxqnapv8kjnp4nrstdxvff/home)
 |
 
-
+### Done
 
 
 | Project                                       | Wallet              | Notes     |      |
