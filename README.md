@@ -6,12 +6,9 @@
 | ✅ [Aigisos DefiGeek](https://www.youtube.com/watch?v=PCYosQIXQeQ)  | ℹ️ [Aigisos Twitter](https://x.com/aigisos) | ℹ️ [Aigisos Medium](https://aigisos.medium.com/aigisos-genesis-rolldrop-8de869192404)
 |                                               |                     |       
 
-Пойнты не фармятся если мы держижим наши соники тут
-https://my.soniclabs.com/earn
-Нужно расстекать их и если хотим зарабатывать через ликвидный стекинг то идти сюда.
-https://beets.fi/stake?ref=blog.soniclabs.com и так застекить соники.
-Подробнее тут 
-https://blog.soniclabs.com/sonic-points-simplified-how-to-qualify-for-200-million-s-airdrop/
+Пойнты не фармятся если мы держижим наши соники [тут](https://my.soniclabs.com/earn)
+Нужно расстекать их и если хотим зарабатывать через ликвидный стекинг то идти [сюда](https://beets.fi/stake?ref=blog.soniclabs.com) и так застекить соники.
+Подробнее [тут](https://blog.soniclabs.com/sonic-points-simplified-how-to-qualify-for-200-million-s-airdrop/)
 "Please note that the whitelisted assets and their multipliers are subject to change. S tokens staked through MySonic are not eligible for points. Users who wish to stake can instead use stS by Beets, a liquid staking token."
 
 <details>
