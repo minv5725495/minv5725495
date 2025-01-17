@@ -1,11 +1,8 @@
 ### TO DO
 
-| Project                                       | Wallet              | Notes     |      |
-| :--------                                     | :--------           | :-------- | :--- |
-| ✅ [4.69 $STN](https://claims.sirath.network) | DYM 0x17A59d123655c1429514b2137a551ed087eB9595
-| ✅ axelar discord
-| ✅ [AIGILOS](https://quest.intract.io/quest/6764267cb4c9cfdac86ec3e7?referralCode=kJgzoF) | ℹ️ [Aigisos Discord](https://discord.gg/eECqtybMGZ) check | Main-Acc1  |  
-| ✅ [Aigisos DefiGeek](https://www.youtube.com/watch?v=PCYosQIXQeQ)  | ℹ️ [Aigisos Twitter](https://x.com/aigisos) | ℹ️ [Aigisos Medium](https://aigisos.medium.com/aigisos-genesis-rolldrop-8de869192404)
+| Project                                       | Wallet              | Notes     |      |      |      |      |
+| :--------                                     | :--------           | :-------- | :--- | :--- | :--- | :--- |
+| ⚠️ https://fuel.mirror.xyz/                    |                     |           |      |
 |                                               |                     |       
 
 Пойнты не фармятся если мы держижим наши соники [тут](https://my.soniclabs.com/earn)
@@ -16,22 +13,23 @@
 <details>
   <summary> DONE </summary>
 
-| Project                                       | Wallet - Acc        | Notes | Notes | Notes
-| :------------------------------------         |     :---            |  ---: |  ---: |  ---: |
+| Project                                       | Wallet              | Notes     |      |      |      |      |
+| :--------                                     | :--------           | :-------- | :--- | :--- | :--- | :--- |
 | ✅ https://polaris.app/
+| ✅ [4.69 $STN](https://claims.sirath.network) | DYM 0x17A59d123655c1429514b2137a551ed087eB9595
+| ✅ axelar discord
+| ✅ [AIGILOS](https://quest.intract.io/quest/6764267cb4c9cfdac86ec3e7?referralCode=kJgzoF) | ℹ️ [Aigisos Discord](https://discord.gg/eECqtybMGZ) check | Main-Acc1  |  ✅ [Aigisos DefiGeek](https://www.youtube.com/watch?v=PCYosQIXQeQ)  | ℹ️ [Aigisos Twitter](https://x.com/aigisos) | ℹ️ [Aigisos Medium](https://aigisos.medium.com/aigisos-genesis-rolldrop-8de869192404)
 |                                               |                     |       
 </details>
 
 
 | Project                                       | Wallet              | Notes     |      |
 | :--------                                     | :--------           | :-------- | :--- |
-| https://fuel.mirror.xyz/                    |                     |           |      |
-| https://op.zora.co/                         |                     |           |      |
-| https://claim.pudgypenguins.com/            |                     |           |      |
+| ⚠️ https://fuel.mirror.xyz/                    |                     |           |      |
+|    https://op.zora.co/                         |                     |           |      |
+| ❌ https://claim.pudgypenguins.com/            |                     |           |      |
 | Zashi, чтобы там хранить свои Zcash                                            |                     |           |      |
-| https://discord.gg/axelar
 | https://stake.nansen.ai/explore/ | [DROP](https://cryptorank.io/drophunting/nansen-activity405)
-| aigisos выкатили проверку на человечность для тестеров
 | [стейкать нейтрон](https://daodao.zone/dao/neutron1suhgf5svhu4usrurvxzlgn54ksxmn8gljarjtxqnapv8kjnp4nrstdxvff/home)
 |
 
@@ -69,7 +67,7 @@
 [NFT-Tier2](https://www.stargaze.zone/l/stars1m8d069j4zaws97mf3unp0cwrm9c0m75j93h8jjgq8ay2r3zng3usgmuztr) | 
 </details>
 
-✔️ ✅ ❌ ⚠️ ℹ️
+✔️ ✅ ❌ ⚠️ ℹ️ ❓
 
 
 <details>
