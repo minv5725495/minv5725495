@@ -1,3 +1,7 @@
+
+---
+✔️ ✅ ❌ ⚠️ ℹ️ ❓
+
 ### TO DO
 
 | Project                                       | Wallet              | Notes     |      |      |      |      |
@@ -10,18 +14,19 @@
 Подробнее [тут](https://blog.soniclabs.com/sonic-points-simplified-how-to-qualify-for-200-million-s-airdrop/)
 "Please note that the whitelisted assets and their multipliers are subject to change. S tokens staked through MySonic are not eligible for points. Users who wish to stake can instead use stS by Beets, a liquid staking token."
 
+---
 <details>
   <summary> DONE </summary>
 
-| Project                                       | Wallet              | Notes     |      |      |      |      |
-| :--------                                     | :--------           | :-------- | :--- | :--- | :--- | :--- |
+| Project                                       | Wallet              | Notes     |      |
+| :--------                                     | :--------           | :-------- | :--- |
 | ✅ https://polaris.app/
-| ✅ [4.69 $STN](https://claims.sirath.network) | DYM 0x17A59d123655c1429514b2137a551ed087eB9595
-| ✅ axelar discord
-| ✅ [AIGILOS](https://quest.intract.io/quest/6764267cb4c9cfdac86ec3e7?referralCode=kJgzoF) | ℹ️ [Aigisos Discord](https://discord.gg/eECqtybMGZ) check | Main-Acc1  |  ✅ [Aigisos DefiGeek](https://www.youtube.com/watch?v=PCYosQIXQeQ)  | ℹ️ [Aigisos Twitter](https://x.com/aigisos) | ℹ️ [Aigisos Medium](https://aigisos.medium.com/aigisos-genesis-rolldrop-8de869192404)
+| ✅ [4.69 $STN](https://claims.sirath.network) |  Main-Acc1 | DYM 0x17A59d123655c1429514b2137a551ed087eB9595
+| ✅ [axelar discord](https://discord.gg/axelar)
+| ✅ [AIGILOS quest](https://quest.intract.io/quest/6764267cb4c9cfdac86ec3e7?referralCode=kJgzoF) | Main-Acc1 | ✅ [Aigisos Discord](https://discord.gg/eECqtybMGZ)   ℹ️[Aigisos yotubeDefiGeek](https://www.youtube.com/watch?v=PCYosQIXQeQ)  ℹ️[Aigisos Twitter](https://x.com/aigisos)  ℹ️[Aigisos Medium](https://aigisos.medium.com/aigisos-genesis-rolldrop-8de869192404)
 |                                               |                     |       
 </details>
-
+---
 
 | Project                                       | Wallet              | Notes     |      |
 | :--------                                     | :--------           | :-------- | :--- |
@@ -46,7 +51,7 @@
 |                                               |                     | 
 |                                               |                     | |
 
-
+---
 <details>
   <summary> Magic Eden </summary>
 
@@ -56,7 +61,7 @@
 | ❌https://testme.mefoundation.com/claim-token   | contract TMEvsrnGfUVQEBAFnQhC37jg27Nm3CLxSQyNi2duPce |
 </details>
 
-
+---
 <details>
   <summary> Elys </summary>
   
@@ -67,9 +72,8 @@
 [NFT-Tier2](https://www.stargaze.zone/l/stars1m8d069j4zaws97mf3unp0cwrm9c0m75j93h8jjgq8ay2r3zng3usgmuztr) | 
 </details>
 
-✔️ ✅ ❌ ⚠️ ℹ️ ❓
 
-
+---
 <details>
 
   <summary> Staking </summary>
@@ -89,4 +93,4 @@
 |                                               |                     |     |
 
 </details>
-
+---
