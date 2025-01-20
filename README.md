@@ -8,7 +8,7 @@
 | Project                                       | Wallet              | Notes     |      |      |      |      |
 | :--------                                     | :--------           | :-------- | :--- | :--- | :--- | :--- |
 | ⚠️ https://fuel.mirror.xyz/                    |                     |           |      |
-|                                               |                     |       
+| ⚠️ jupiter solana                                 |                     |       
 
 Пойнты не фармятся если мы держижим наши соники [тут](https://my.soniclabs.com/earn)
 Нужно расстекать их и если хотим зарабатывать через ликвидный стекинг то идти [сюда](https://beets.fi/stake?ref=blog.soniclabs.com) и так застекить соники.
