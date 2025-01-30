@@ -1,5 +1,6 @@
 ✔️ ✅ ❌ ⚠️ ℹ️ ❓ 
 
+
 ✅[mammoths](https://modularium.art/collection/mammoths) ✅[habitats](https://modularium.art/collection/habitats) ✅[marguerite](https://modularium.art/collection/feuiller-la-marguerite)
 
 ---
@@ -28,6 +29,8 @@
 | ✅ [axelar discord](https://discord.gg/axelar)
 | ✅ [AIGILOS quest](https://quest.intract.io/quest/6764267cb4c9cfdac86ec3e7?referralCode=kJgzoF) | Main-Acc1 | ✅ [Aigisos Discord](https://discord.gg/eECqtybMGZ)   ℹ️[Aigisos yotubeDefiGeek](https://www.youtube.com/watch?v=PCYosQIXQeQ)  ℹ️[Aigisos Twitter](https://x.com/aigisos)  ℹ️[Aigisos Medium](https://aigisos.medium.com/aigisos-genesis-rolldrop-8de869192404)
 |                                               |                     |       
+| ✅ [Pryzm.zone](https://airdrop.pryzm.zone/)  |  ✅ pic16f874 ✅ pic16f877 ✅ 100-Test-1
+
 </details>
 ---
 
@@ -84,7 +87,7 @@
 | Project                                       | Wallet - Acc        | Notes | Notes | Notes | 
 | :------------------------------------         |     :---            |  ---: |  ---: |  ---: |
 | [stake.altlayer.io](https://stake.altlayer.io/)                           
-| [Pryzm.zone](https://airdrop.pryzm.zone/)                       
+                      
 |                                               |                    
 | [BlackPanter](https://dojo.trading/atomic)    |      pic16f874                 
 |                                               |                    
